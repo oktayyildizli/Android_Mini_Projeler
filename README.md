@@ -4,7 +4,6 @@ Boş zamanlarımda hobi olarak eğitim serisi tarzında Android Studio da yazdı
 
 ---------
 
--
 ### Projeler
 
 | 1 - [Hesap Makinesi](/app/src/main/java/com/ozcaan11/android_mini_projeler/HesapMakinesiActivity.java)
@@ -15,7 +14,6 @@ Boş zamanlarımda hobi olarak eğitim serisi tarzında Android Studio da yazdı
 
 ---------
 
--
 ###Kullandığım Araçlar
 
 | 1 - [Ubuntu LTS 14.04](http://www.ubuntu.com/download)
@@ -24,6 +22,7 @@ Boş zamanlarımda hobi olarak eğitim serisi tarzında Android Studio da yazdı
 | 2 - [Adnroid Studio](http://developer.android.com/sdk/index.html)
 ---------
 
----------
+
+-
 | [@ozcaan11](https://twitter.com/ozcaan11)
 ---------
