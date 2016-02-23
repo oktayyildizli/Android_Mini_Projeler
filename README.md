@@ -5,6 +5,9 @@ Boş zamanlarımda hobi olarak eğitim serisi tarzında Android Studio da yazdı
 ---------
 ### Projeler
 
+| 0 - [Giriş Aktivitesi](/app/src/main/java/com/ozcaan11/android_mini_projeler/MainActivity.java)
+---------
+
 | 1 - [Hesap Makinesi](/app/src/main/java/com/ozcaan11/android_mini_projeler/HesapMakinesiActivity.java)
 ---------
 
