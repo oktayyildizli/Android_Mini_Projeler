@@ -7,5 +7,5 @@ Boş zamanlarımda hobi olarak eğitim serisi tarzında Android Studio da yazdı
 ### Projeler
 -
 
-| 1 - [Hesap Makinesi](app/src/main/java/com.ozcaan11.android_mini_projeler/FaktoriyelActivity)
+| 1 - [Hesap Makinesi](/app/src/main/java/com.ozcaan11.android_mini_projeler/FaktoriyelActivity)
 
