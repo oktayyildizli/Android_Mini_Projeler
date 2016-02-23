@@ -3,7 +3,6 @@
 Boş zamanlarımda hobi olarak eğitim serisi tarzında Android Studio da yazdığım mini mini projeler bunlar :)
 
 ---------
-
 ### Projeler
 
 | 1 - [Hesap Makinesi](/app/src/main/java/com/ozcaan11/android_mini_projeler/HesapMakinesiActivity.java)
@@ -13,7 +12,6 @@ Boş zamanlarımda hobi olarak eğitim serisi tarzında Android Studio da yazdı
 ---------
 
 ---------
-
 ###Kullandığım Araçlar
 
 | 1 - [Ubuntu LTS 14.04](http://www.ubuntu.com/download)
