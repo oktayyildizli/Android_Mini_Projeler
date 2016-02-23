@@ -17,7 +17,7 @@ Boş zamanlarımda hobi olarak eğitim serisi tarzında Android Studio da yazdı
 | 1 - [Ubuntu LTS 14.04](http://www.ubuntu.com/download)
 ---------
 
-| 2 - [Adnroid Studio](http://developer.android.com/sdk/index.html)
+| 2 - [Android Studio](http://developer.android.com/sdk/index.html)
 ---------
 
 
