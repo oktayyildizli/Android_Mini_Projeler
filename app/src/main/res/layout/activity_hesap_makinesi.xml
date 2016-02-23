@@ -26,7 +26,7 @@
             android:id="@+id/txtNum1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textStyle="italic" />
+            android:inputType="number" />
     </LinearLayout>
 
     <LinearLayout
@@ -45,7 +45,7 @@
             android:id="@+id/txtNum2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textStyle="italic" />
+            android:inputType="number" />
     </LinearLayout>
 
     <LinearLayout

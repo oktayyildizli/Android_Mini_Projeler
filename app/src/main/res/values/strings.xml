@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Android_Mini_Projeler</string>
+    <string name="app_name">Android Mini Projeler</string>
     <string name="tv_num1">Number 1:</string>
     <string name="tv_num2">Number 2:</string>
     <string name="btnArti">+</string>
@@ -8,4 +8,6 @@
     <string name="btnBol">/</string>
     <string name="btnFact">Hesapla</string>
     <string name="tv_fakt">Sayı giriniz</string>
+    <string name="text_btnFaktoriyelAlma">Faktöriyel Alma</string>
+    <string name="text_btnHesapMakinesi">Hesap Makinesi</string>
 </resources>

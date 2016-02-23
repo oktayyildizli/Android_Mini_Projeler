@@ -9,6 +9,8 @@ import android.widget.Toast;
 
 public class HesapMakinesiActivity extends AppCompatActivity {
 
+    float result = 0;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -24,28 +26,30 @@ public class HesapMakinesiActivity extends AppCompatActivity {
         btnArti.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                float result = Float.parseFloat(n1.getText().toString()) + Float.parseFloat(n2.getText().toString());
+                result = Float.parseFloat(n1.getText().toString()) + Float.parseFloat(n2.getText().toString());
                 Toast.makeText(HesapMakinesiActivity.this, "Sonuç: " + result, Toast.LENGTH_SHORT).show();
+
             }
+
         });
         btnEksi.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                float result = Float.parseFloat(n1.getText().toString()) - Float.parseFloat(n2.getText().toString());
+                result = Float.parseFloat(n1.getText().toString()) - Float.parseFloat(n2.getText().toString());
                 Toast.makeText(HesapMakinesiActivity.this, "Sonuç: " + result, Toast.LENGTH_SHORT).show();
             }
         });
         btnCarp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                float result = Float.parseFloat(n1.getText().toString()) * Float.parseFloat(n2.getText().toString());
+                result = Float.parseFloat(n1.getText().toString()) * Float.parseFloat(n2.getText().toString());
                 Toast.makeText(HesapMakinesiActivity.this, "Sonuç: " + result, Toast.LENGTH_SHORT).show();
             }
         });
         btnBol.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                float result = Float.parseFloat(n1.getText().toString()) / Float.parseFloat(n2.getText().toString());
+                result = Float.parseFloat(n1.getText().toString()) / Float.parseFloat(n2.getText().toString());
                 Toast.makeText(HesapMakinesiActivity.this, "Sonuç: " + result, Toast.LENGTH_SHORT).show();
             }
         });
