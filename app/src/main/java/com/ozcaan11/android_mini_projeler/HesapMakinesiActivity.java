@@ -23,6 +23,28 @@ public class HesapMakinesiActivity extends AppCompatActivity {
         Button btnCarp = (Button) findViewById(R.id.btnCarp);
         Button btnBol = (Button) findViewById(R.id.btnBol);
 
+
+        n1.setOnFocusChangeListener(new View.OnFocusChangeListener() {
+            @Override
+            public void onFocusChange(View v, boolean hasFocus) {
+                if (! hasFocus){
+                    if (n1.getText().toString().equals("")){
+                        Toast.makeText(HesapMakinesiActivity.this, "boş bırakılamaz", Toast.LENGTH_SHORT).show();
+                    }
+                }
+            }
+        });
+        n2.setOnFocusChangeListener(new View.OnFocusChangeListener() {
+            @Override
+            public void onFocusChange(View v, boolean hasFocus) {
+                if (! hasFocus){
+                    if (n2.getText().toString().equals("")){
+                        Toast.makeText(HesapMakinesiActivity.this, "boş bırakılamaz", Toast.LENGTH_SHORT).show();
+                    }
+                }
+            }
+        });
+
         btnArti.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
