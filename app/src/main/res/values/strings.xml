@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android_Mini_Projeler</string>
+    <string name="tv_num1">Number 1:</string>
+    <string name="tv_num2">Number 2:</string>
+    <string name="btnArti">+</string>
+    <string name="btnEksi">-</string>
+    <string name="btnCarp">x</string>
+    <string name="btnBol">/</string>
+    <string name="btnFact">Hesapla</string>
+    <string name="tv_fakt">Sayı giriniz</string>
+</resources>
