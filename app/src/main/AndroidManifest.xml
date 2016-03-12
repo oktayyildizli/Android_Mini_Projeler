@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".HesapMakinesiActivity" />
-        <activity android:name=".FaktoriyelActivity"/>
+        <activity android:name=".FaktoriyelActivity" />
+        <activity android:name=".HesapMakinesiProActivity"></activity>
     </application>
 
 </manifest>

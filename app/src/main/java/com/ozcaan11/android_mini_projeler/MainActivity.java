@@ -15,11 +15,18 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Button btnHesapMakinesi = (Button) findViewById(R.id.btnHesapMakinesi);
+        Button btnHesapMakinesiPro = (Button) findViewById(R.id.btnHesapMakinesiPro);
         Button btnFaktoriyel = (Button) findViewById(R.id.btnFaktoriyel);
         btnHesapMakinesi.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this, HesapMakinesiActivity.class));
+            }
+        });
+        btnHesapMakinesiPro.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, HesapMakinesiProActivity.class));
             }
         });
         btnFaktoriyel.setOnClickListener(new View.OnClickListener() {

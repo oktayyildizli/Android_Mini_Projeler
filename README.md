@@ -11,7 +11,10 @@ Boş zamanlarımda hobi olarak eğitim serisi tarzında Android Studio da yazdı
 | 1 - [Hesap Makinesi](/app/src/main/java/com/ozcaan11/android_mini_projeler/HesapMakinesiActivity.java)
 ---------
 
-| 2 - [Faktöriyel Alma](/app/src/main/java/com/ozcaan11/android_mini_projeler/FaktoriyelActivity.java)
+| 2 - [Hesap Makinesi Pro](/app/src/main/java/com/ozcaan11/android_mini_projeler/HesapMakinesiProActivity.java)
+---------
+
+| 3 - [Faktöriyel Alma](/app/src/main/java/com/ozcaan11/android_mini_projeler/FaktoriyelActivity.java)
 ---------
 
 ---------

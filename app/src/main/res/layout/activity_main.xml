@@ -11,17 +11,25 @@
     tools:context="com.ozcaan11.android_mini_projeler.MainActivity">
 
     <Button
+        android:id="@+id/btnFaktoriyel"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="@string/text_btnHesapMakinesi"
-        android:id="@+id/btnHesapMakinesi"
-        android:layout_marginTop="3dp" />
+        android:layout_marginTop="3dp"
+        android:text="@string/text_btnFaktoriyelAlma" />
 
     <Button
+        android:id="@+id/btnHesapMakinesi"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="@string/text_btnFaktoriyelAlma"
-        android:id="@+id/btnFaktoriyel"
-        android:layout_marginTop="3dp" />
+        android:layout_marginTop="3dp"
+        android:text="@string/text_btnHesapMakinesi" />
+
+
+    <Button
+        android:id="@+id/btnHesapMakinesiPro"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:text="@string/text_btnHesapMakinesiPro" />
 
 </LinearLayout>

@@ -10,4 +10,5 @@
     <string name="tv_fakt">Sayı giriniz</string>
     <string name="text_btnFaktoriyelAlma">Faktöriyel Alma</string>
     <string name="text_btnHesapMakinesi">Hesap Makinesi</string>
+    <string name="text_btnHesapMakinesiPro">Hesap Makinesi Profesyonel</string>
 </resources>
